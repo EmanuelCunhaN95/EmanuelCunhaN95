@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌊 Emanuel Cunha
 
-<!--
-**EmanuelCunhaN95/EmanuelCunhaN95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Software Developer`**
 
-Here are some ideas to get you started:
+Me chamo Emanuel Cunha da Costa, tenho 22 anos e sou do Rio de Janeiro. Sou formado em Ciência da computação pela UNIFESO. Atualmente, sou estudante autodidata de desenvolvimento de softwares, tenho muito interesse por desenvolvimento de aplicativos Desktop com C# e DOTNET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/avaloniaui/default.svg" width="40" alt="Avalonia" title="Avalonia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS"/>
+</div>
+
+<br>
+<br>
+<br>
