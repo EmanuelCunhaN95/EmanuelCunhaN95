@@ -60,6 +60,14 @@ Me chamo Emanuel Cunha da Costa, tenho 22 anos e sou do Rio de Janeiro. Sou form
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+   <img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />       
+/>
 </div>
 
 <br>
