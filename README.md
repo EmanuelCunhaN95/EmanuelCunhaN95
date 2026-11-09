@@ -57,7 +57,8 @@ Tenho interesse no desenvolvimento de aplicações utilizando **C# e .NET**, esp
 />
   
 </div>
-
+<br>
+<br>
 <div align="left">
   <h1>
     Frameworks e bibliotecas
