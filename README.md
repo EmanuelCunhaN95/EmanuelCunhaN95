@@ -80,7 +80,6 @@ Tenho interesse no desenvolvimento de aplicações utilizando **C# e .NET**, esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/avaloniaui/default.svg"
 />
-</div>
    <img 
     align="left" 
     alt="REACT" 
@@ -89,7 +88,48 @@ Tenho interesse no desenvolvimento de aplicações utilizando **C# e .NET**, esp
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
 />
+</div>
 
+<br>
+<br>
+<div align="left">
+  <h1>
+    Ferramentas
+  </h1>
+
+  <img 
+    align="left" 
+    alt="git" 
+    title="git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   
+/>
+  <img 
+    align="left" 
+    alt="github" 
+    title="github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+  <img 
+    align="left" 
+    alt="vsCode" 
+    title="vsCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"         
+/>
+  <img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+</div>
 
 
 
